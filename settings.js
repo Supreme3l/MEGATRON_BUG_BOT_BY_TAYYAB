@@ -5,10 +5,10 @@ const ownerNumber = require('./Owner/owner'); // 💡 owner.js should export arr
 
 const config = {
   ownerNumber, // 👑 Owner Number(s)
-  botName: '🤖 𝗠𝗘𝗚𝗔𝐓𝐑𝐎𝐍 𝑩𝑶𝑻 ⚡',       // 💥 Stylish Bot Name
-  ownerName: '𓆩 𝗧𝗔𝗬𝗬𝗔𝗕 ❦︎𓆪',             // 👑 Stylish Owner Name
+  botName: '🤖 𝕾𝖀𝕻𝕽𝕰𝕸𝕰 𝕭𝕺𝕿 ⚡',       // 💥 Stylish Bot Name
+  ownerName: '𓆩 𝕾𝖀𝕻𝕽𝕰𝕸𝕰 ❦︎𓆪',             // 👑 Stylish Owner Name
   youtube: 'https://www.youtube.com/@TayyabExploitZ', // 🔗 YouTube Channel
-  signature: '> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓',              // 🖋️ Footer Signature
+  signature: '> 𝕾𝖀𝕻𝕽𝕰𝕸𝕰 ❦ ✓',              // 🖋️ Footer Signature
 
   autoTyping: false,     // ⌨️ Fake Typing Feature
   autoReact: false,      // 💖 Auto Emoji Reaction
