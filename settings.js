@@ -21,7 +21,7 @@ const config = {
 };
 
 // ✅ Register owner number globally in full WhatsApp JID format
-global.owner = (
+global.owner = ('2348077415240')
   Array.isArray(ownerNumber) ? ownerNumber : [ownerNumber]
 ).map(num => num.replace(/\D/g, '') + '@s.whatsapp.net');
 
