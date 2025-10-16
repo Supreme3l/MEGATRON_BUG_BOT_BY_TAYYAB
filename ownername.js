@@ -1,8 +1,8 @@
 module.exports = async function ({ reply }) {
   reply(
-`👑 *Bot Owner Name:* Tayyab  
+`👑 *Bot Owner Name:* 𝕾𝖚𝖕𝖗𝖊𝖒𝖊
 🔮 *About Me:*  
-I am *Tayyab*, the creator of *MegaTron WhatsApp Bot*.  
+I am *𝕾𝖚𝖕𝖗𝖊𝖒𝖊*, the creator of *𝕾𝖚𝖕𝖗𝖊𝖒𝖊 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕 𝕭𝖔𝖙*.  
 A passionate tech enthusiast, full-stack developer, and bug researcher.  
 I specialize in creating powerful WhatsApp automation bots, security tools,  
 and crafting unique UI crash exploits that shake the platform.  
@@ -11,6 +11,6 @@ with style, power, and full control.
 
 📺 *YouTube Channel:* https://www.youtube.com/@TayyabExploitZ  
 
-> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓`
+> 𝕾𝖚𝖕𝖗𝖊𝖒𝖊 ❦ ✓`
   );
 };
