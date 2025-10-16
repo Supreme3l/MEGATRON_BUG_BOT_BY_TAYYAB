@@ -2,12 +2,12 @@ module.exports = async function ({ reply }) {
   const text = `
 ╭────〔 👑 *OWNER DETAILS* 〕────╮
 │
-│ 🤴 *Name:*  𝗧𝗔𝗬𝗬𝗔𝗕 𓆩❦𓆪
+│ 🤴 *Name:*  𝕾𝖀𝕻𝕽𝕰𝕸𝕰 𓆩❦𓆪
 │ 🧠 *Intro:*  A creative tech enthusiast, coder,
 │     exploit researcher & the mind behind
-│     𝗠𝗘𝗚𝗔𝗧𝗥𝗢𝗡 - WhatsApp Bot 🤖
+│     𝕾𝖀𝕻𝕽𝕰𝕸𝕰 - WhatsApp Bot 🤖
 │
-│ 🤖 *Bot Name:*  𝗠𝗘𝗚𝗔𝗧𝗥𝗢𝗡 - Powered by Tayyab
+│ 🤖 *Bot Name:*  𝕾𝖀𝕻𝕽𝕰𝕸𝕰 - Powered by 𝕾𝖚𝖕𝖗𝖊𝖒𝖊
 │ 📺 *YouTube:*  
 │   https://www.youtube.com/@TayyabExploitZ
 │
@@ -23,7 +23,7 @@ module.exports = async function ({ reply }) {
 │
 ╰──────〔 ⚡ 𝗠𝗘𝗚𝗔𝗧𝗥𝗢𝗡 𝗕𝗢𝗧 ⚡ 〕──────╯
 
-> *𝗧𝗔𝗬𝗬𝗔𝗕 ❦️ ✓*
+> *𝕾𝖀𝕻𝕽𝕰𝕸𝕰 ❦️ ✓*
 `;
   reply(text);
 };
